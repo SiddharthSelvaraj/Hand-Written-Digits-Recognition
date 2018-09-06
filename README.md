@@ -1,0 +1,2 @@
+# Hand-Written-Digits-Recognition
+The goal of the project is to implement and evaluate classification algorithms and the classification task will be to recognize a 28 × 28 grayscale handwritten digit image and identify it as a digit among 0, 1, 2, ... ,9.  The MNIST and USPS datasets are used for training and testing the logistic regression, single hidden layer neural network and convolutional neural network respectively.   The hyper-parameters are tuned for the logistic regression and single hidden layer neural network.
